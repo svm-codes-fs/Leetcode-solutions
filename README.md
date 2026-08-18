@@ -2,8 +2,6 @@
 Collection of LeetCode questions to ace the coding interview! - Created using [LeetHub-3.0](https://github.com/raphaelheinz/LeetHub-3.0)
 
 <!---LeetCode Topics Start-->
-
-
 # LeetCode Topics
 ## Array
 | Problem Name | Difficulty |
@@ -39,6 +37,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/svm-codes-fs/Leetcode-solutions/tree/main/0002-add-two-numbers/) | Medium |
+| [0021-merge-two-sorted-lists](https://github.com/svm-codes-fs/Leetcode-solutions/tree/main/0021-merge-two-sorted-lists/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -49,6 +48,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/svm-codes-fs/Leetcode-solutions/tree/main/0002-add-two-numbers/) | Medium |
+| [0021-merge-two-sorted-lists](https://github.com/svm-codes-fs/Leetcode-solutions/tree/main/0021-merge-two-sorted-lists/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |

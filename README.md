@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0015-3sum](https://github.com/svm-codes-fs/Leetcode-solutions/tree/main/0015-3sum/) | Medium |
 | [0016-3sum-closest](https://github.com/svm-codes-fs/Leetcode-solutions/tree/main/0016-3sum-closest/) | Medium |
 | [0018-4sum](https://github.com/svm-codes-fs/Leetcode-solutions/tree/main/0018-4sum/) | Medium |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/svm-codes-fs/Leetcode-solutions/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -17,6 +18,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0015-3sum](https://github.com/svm-codes-fs/Leetcode-solutions/tree/main/0015-3sum/) | Medium |
 | [0016-3sum-closest](https://github.com/svm-codes-fs/Leetcode-solutions/tree/main/0016-3sum-closest/) | Medium |
 | [0018-4sum](https://github.com/svm-codes-fs/Leetcode-solutions/tree/main/0018-4sum/) | Medium |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/svm-codes-fs/Leetcode-solutions/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
